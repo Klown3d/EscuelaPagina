@@ -107,7 +107,7 @@ body {
     color: var(--white);
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 2rem;
+    padding: 4rem 2rem;
 }
 
 .hero-title {
@@ -209,6 +209,7 @@ body {
 .section-header {
     text-align: center;
     margin-bottom: 5rem;
+    padding: 4rem 2rem;
 }
 
 .section-title {

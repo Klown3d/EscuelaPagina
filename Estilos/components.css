@@ -111,7 +111,7 @@
 .programs-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: var(--desktop-grid-gap);
+    gap: 3rem;
 }
 
 .program-card {
